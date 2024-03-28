@@ -36,8 +36,8 @@ h1{
 
 #peopleList div{
   transition: 1s;
-  font-size: larger;
-  padding: 10px;
+  font-size: 15px;
+  padding: 5px;
   background-color: dimgray;
   color: black;
   border-radius: 10px;
@@ -46,8 +46,8 @@ h1{
 li{
   padding: 30px;
   display: flex;
-  flex-direction: row;
-  font-size: large;
+  flex-direction: column;
+  font-size: 30px;
 }
 
 li:hover{
